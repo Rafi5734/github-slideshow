@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;;
+}
+.intro-section{
+    height: 30vh;
+    background-repeat: no-repeat;
+}
+
+.carousel-section{
+    height: 1p0vh;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.consultants-section{
+    height: 200vh;
+    margin: 0;
+    background: #ededed;
+    
+}
+
+.carousel-item a :hover{
+    background-color: transparent;
+}
+
+.address:hover .message{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+.address:hover .phone{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+
+.section-footer{
+    height: 100vh;
+}
+
+.logo-footer:hover img{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
