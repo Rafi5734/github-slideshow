@@ -1,0 +1,144 @@
+/*-----------
+header section css start
+*/
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a,a:hover{
+    list-style: none;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,a,ol,ul,input,button,p{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background: url(header-bg.jpg);
+    height: 83vh;
+    background-repeat: no-repeat;
+    
+}
+.bgcolor{
+    background-color: rgba(0,0,0,0.629);
+    width: 100%;
+    padding: 10px;
+}
+.bgcolor ul{
+    float: right;
+}
+}
+.nav-link{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    
+}
+.nav-link:hover{
+    text-decoration: none;
+    border: solid 2px #ffc61a;
+    color: black;
+    background-color: #ffc61a;
+    border-radius: 10px;
+    overflow: hidden;
+    display: inline-block;
+    
+    
+}
+.header-info h1,p{
+    color: #fff;
+    font-family: 'lato',sans-serif;
+}
+.header-info h3{
+    color: #ffc61a;
+    font-family: 'lato',sans-serif;
+    font-weight: bold;
+}
+
+.header-info img{
+    margin-left: 100px;
+}
+
+.form-section{
+    background: #ffc61a;
+    height: 90vh;
+}
+.tarif-section{
+    height: 100vh;
+}
+.tarif-section .card-demo{
+    background-color: #f5f4f2 ;
+}
+.tarif-section .card-demo:hover{
+    background: #ffc61a;
+    transition: 1s;
+}
+.card-body .hi{
+    color: #ffc61a;
+}
+.card-body:hover .hi{
+    color: black;
+}
+
+.card-body:hover .button-up{
+    background: black;
+    transition: 0.8s;
+}
+
+.best-section{
+    height: 100vh;
+    background: url(star-section-bg.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.download-section{
+    height: 100vh;
+}
+
+.clients-section{
+    height: 100vh;
+    background: url(bg-3.jpg);
+}
+
+.border-box1{
+    margin-top: 90px
+}
+
+.border-box{
+    margin-top: 90px;
+}
+.time-section{
+    height: 40vh;
+    background-color: #ffc61a;
+}
+
+.footer-section{
+    height: 100vh;
+    background: url(star-section-bg.jpg);
+    background-repeat: no-repeat;
+    
+}
+.hover-effect .first-icon img:hover{
+    transform: rotate(360deg);
+    transition: 1.5s;
+    
+}
+
+.social-link .andro-icon img:hover{
+    transform: rotate(360deg);
+    transition: 1.5s;
+}
+
+
+
+
+
+
+
+
+
